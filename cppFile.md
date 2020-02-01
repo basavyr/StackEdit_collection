@@ -23,6 +23,7 @@ Extra **sync line** async function...
 * this is item
 * another item
 
+insert an image : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEyNTUxMiwtNTI3NTA0NzYxXX0=
+eyJoaXN0b3J5IjpbLTEyMTkxMTgxOTMsLTUyNzUwNDc2MV19
 -->
