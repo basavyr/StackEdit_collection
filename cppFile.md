@@ -14,6 +14,10 @@ code written in c++.
 >add more conent
 
 Test is *usual*
+
+Extra **sync line** async function...
+1. list
+2. 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA4MDcyMCwtNTI3NTA0NzYxXX0=
+eyJoaXN0b3J5IjpbLTExMjQ4NzUxNzYsLTUyNzUwNDc2MV19
 -->
