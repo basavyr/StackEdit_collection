@@ -1,7 +1,6 @@
+## Band substraction 
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+Get a constant
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3NDI5OTYzNDMsNzMwOTk4MTE2XX0=
 -->
