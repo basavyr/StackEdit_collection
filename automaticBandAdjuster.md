@@ -16,6 +16,8 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 * if $\Delta < 0$ then add a constant value from $E_{exp}$
 
 -> apply the adjustment for the experimental bands  
+-> recalculate RMS and obtain a new `RMS_stack`
+-> obtain the new set of parameters $X_k^{new}$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Mjg5MTY5M119
+eyJoaXN0b3J5IjpbLTQ0MTQwNjk1MSwxMzkyODkxNjkzXX0=
 -->
