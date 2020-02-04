@@ -19,8 +19,8 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 -> apply the adjustment for the experimental bands  
 -> recalculate RMS and obtain a new `RMS_stack`
 -> obtain the new set of parameters $X_k^{new}$ for which the RMS stack is minimal
--> redo the  the graphical representation of the energies with the new parameters, but using the initial experimental energies.
+-> redo the **G1** step: the graphical representation of the energies with the new parameters, but using the initial experimental energies.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU0ODMyNjksLTE5MTE3MjM1OTcsMT
-M5Mjg5MTY5M119
+eyJoaXN0b3J5IjpbLTY1OTkxNjkwOSwtMTkxMTcyMzU5NywxMz
+kyODkxNjkzXX0=
 -->
