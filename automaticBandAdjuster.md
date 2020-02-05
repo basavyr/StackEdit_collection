@@ -29,9 +29,10 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 	* Depending on which side the deviation is bigger, that side will be *adjusted*
 	* The experimental data set will be adjusted only
 	* Operations are done per band (each band has its own deviation and adjustment parameter $q$)
-* The calculation is based on an initial set of containers `exp` and `th`, where 
+* The calculation is based on an initial set of containers `exp` and `th`, where `th` is determined by obtaining the minimal set $X$ for which the RMS is minimal.
+	* The obtained parameters are used to generate the `th` set by applying `energyExpression(A1,A2,A3,theta)`
 #### RMS recalculation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzQ2MTAyMCwtNjU5OTE2OTA5LC0xOT
-ExNzIzNTk3LDEzOTI4OTE2OTNdfQ==
+eyJoaXN0b3J5IjpbLTE1ODI3NzMwMTksLTY1OTkxNjkwOSwtMT
+kxMTcyMzU5NywxMzkyODkxNjkzXX0=
 -->
