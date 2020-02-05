@@ -36,8 +36,9 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 * with the new set of exp data, we re-apply the calculation of `searchMinimum` in order to get another set of parameters $X'$
 #### `searchMinimum` function -> the approach
 This function finds the best set of parameters $X$ such that the RMS between `E_EXP` and `E_TH` is minimal
-> searchMinimum must depend on the input data and it must update a parameter conta
+> searchMinimum must depend on the input data and it must update a parameter container
+> searchMinimum must not return anything
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc5NzE2OTIsLTE1ODI3NzMwMTksLT
-Y1OTkxNjkwOSwtMTkxMTcyMzU5NywxMzkyODkxNjkzXX0=
+eyJoaXN0b3J5IjpbLTM5ODg4ODQ3NCwtMTU4Mjc3MzAxOSwtNj
+U5OTE2OTA5LC0xOTExNzIzNTk3LDEzOTI4OTE2OTNdfQ==
 -->
