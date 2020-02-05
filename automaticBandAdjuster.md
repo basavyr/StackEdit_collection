@@ -32,9 +32,10 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 * The calculation is based on an initial set of containers `exp` and `th`, where `th` is determined by obtaining the minimal set $X$ for which the RMS is minimal.
 	* The obtained parameters are used to generate the `th` set by applying `energyExpression(A1,A2,A3,theta)`
 #### RMS recalculation
-* after the first theoretical data set is constructed -> we apply the adjustment once, and obtain a new experimental data set
-* 
+* after the first theoretical data set is constructed -> we apply the adjustment once, and obtain a new experimental data set -> `expData_subtracted`
+* with the new set of exp data, we re-apply the calculation of `searchMinimum` in order to get another set of parameters $X'$
+#### `searchMinimum` function -> the approach
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NzMxOTY3LC0xNTgyNzczMDE5LC02NT
-k5MTY5MDksLTE5MTE3MjM1OTcsMTM5Mjg5MTY5M119
+eyJoaXN0b3J5IjpbLTE1NzMwODQ1MjgsLTE1ODI3NzMwMTksLT
+Y1OTkxNjkwOSwtMTkxMTcyMzU5NywxMzkyODkxNjkzXX0=
 -->
