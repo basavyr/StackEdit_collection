@@ -21,7 +21,11 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 -> obtain the new set of parameters $X_k^{new}$ for which the RMS stack is minimal
 -> redo the **G1** step: the graphical representation of the energies with the new parameters, but using the initial experimental energies.
 
+### Current status of the project 
+-----
+* Algorithm is able to successfully select the part where there is the biggest deviation from the experimental energies.
+* The selection is done my computing the average deviation $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjM3MTMyNywtNjU5OTE2OTA5LC0xOT
-ExNzIzNTk3LDEzOTI4OTE2OTNdfQ==
+eyJoaXN0b3J5IjpbNDA0NTExODY5LC02NTk5MTY5MDksLTE5MT
+E3MjM1OTcsMTM5Mjg5MTY5M119
 -->
