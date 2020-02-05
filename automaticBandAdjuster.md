@@ -24,8 +24,9 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 ### Current status of the project 
 -----
 * Algorithm is able to successfully select the part where there is the biggest deviation from the experimental energies.
-* The selection is done my computing the average deviation $
+* The selection is done my computing the average deviation $\Delta_E=E_{th}-E_{exp}$.
+	* Depending on which side the devia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0NTExODY5LC02NTk5MTY5MDksLTE5MT
-E3MjM1OTcsMTM5Mjg5MTY5M119
+eyJoaXN0b3J5IjpbLTEzMjk2MjI5NjMsLTY1OTkxNjkwOSwtMT
+kxMTcyMzU5NywxMzkyODkxNjkzXX0=
 -->
