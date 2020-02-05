@@ -23,13 +23,15 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 
 ### Current status of the project 
 -----
+#### Band adjustment and `sidePicker`
 * Algorithm is able to successfully select the part where there is the biggest deviation from the experimental energies.
 * The selection is done by computing the average deviation $\Delta_E=E_{th}-E_{exp}$.
 	* Depending on which side the deviation is bigger, that side will be *adjusted*
 	* The experimental data set will be adjusted only
 	* Operations are done per band (each band has its own deviation and adjustment parameter $q$)
-* 
+* The calculation is based on an initial set of containers `exp` and `th`, where 
+#### RMS recalculation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI1OTM2MDEsLTY1OTkxNjkwOSwtMT
-kxMTcyMzU5NywxMzkyODkxNjkzXX0=
+eyJoaXN0b3J5IjpbLTI5MzQ2MTAyMCwtNjU5OTE2OTA5LC0xOT
+ExNzIzNTk3LDEzOTI4OTE2OTNdfQ==
 -->
