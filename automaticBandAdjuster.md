@@ -38,7 +38,11 @@ The constant is used for adjusting the experimental bands (both wobbling and yra
 This function finds the best set of parameters $X$ such that the RMS between `E_EXP` and `E_TH` is minimal
 > searchMinimum must depend on the input data and it must update a parameter container
 > searchMinimum must not return anything
+#### Side picker 
+The side picker decides which part of the `Exp_data` set to be *adjusted*.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODg4ODQ3NCwtMTU4Mjc3MzAxOSwtNj
-U5OTE2OTA5LC0xOTExNzIzNTk3LDEzOTI4OTE2OTNdfQ==
+eyJoaXN0b3J5IjpbMTk3Mjc4NjY4NiwtMzk4ODg4NDc0LC0xNT
+gyNzczMDE5LC02NTk5MTY5MDksLTE5MTE3MjM1OTcsMTM5Mjg5
+MTY5M119
 -->
