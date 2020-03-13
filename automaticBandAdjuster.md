@@ -43,11 +43,10 @@ The side picker decides which part of the `Exp_data` set to be *adjusted*.
 Extra text for sync with github (13.03.2020)
 
 |   1  | 1  |
-| --- | :---|
-|1 x is not good | this is good |
-
+| ---: | :---|
+|1 x good | this is good |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkyNjg1MzQsLTE3NjY3OTczNCwxOT
+eyJoaXN0b3J5IjpbLTIwMjgxNDgwNDEsLTE3NjY3OTczNCwxOT
 cyNzg2Njg2LC0zOTg4ODg0NzQsLTE1ODI3NzMwMTksLTY1OTkx
 NjkwOSwtMTkxMTcyMzU5NywxMzkyODkxNjkzXX0=
 -->
