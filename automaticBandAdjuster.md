@@ -40,9 +40,9 @@ This function finds the best set of parameters $X$ such that the RMS between `E_
 > searchMinimum must not return anything
 #### Side picker 
 The side picker decides which part of the `Exp_data` set to be *adjusted*.
-
+Extra text for sync with github (13.03.2020)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjc4NjY4NiwtMzk4ODg4NDc0LC0xNT
-gyNzczMDE5LC02NTk5MTY5MDksLTE5MTE3MjM1OTcsMTM5Mjg5
-MTY5M119
+eyJoaXN0b3J5IjpbLTE3NjY3OTczNCwxOTcyNzg2Njg2LC0zOT
+g4ODg0NzQsLTE1ODI3NzMwMTksLTY1OTkxNjkwOSwtMTkxMTcy
+MzU5NywxMzkyODkxNjkzXX0=
 -->
