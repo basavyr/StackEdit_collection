@@ -41,8 +41,10 @@ This function finds the best set of parameters $X$ such that the RMS between `E_
 #### Side picker 
 The side picker decides which part of the `Exp_data` set to be *adjusted*.
 Extra text for sync with github (13.03.2020)
+
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY3OTczNCwxOTcyNzg2Njg2LC0zOT
-g4ODg0NzQsLTE1ODI3NzMwMTksLTY1OTkxNjkwOSwtMTkxMTcy
-MzU5NywxMzkyODkxNjkzXX0=
+eyJoaXN0b3J5IjpbMTA1NzI5MDA5OCwtMTc2Njc5NzM0LDE5Nz
+I3ODY2ODYsLTM5ODg4ODQ3NCwtMTU4Mjc3MzAxOSwtNjU5OTE2
+OTA5LC0xOTExNzIzNTk3LDEzOTI4OTE2OTNdfQ==
 -->
